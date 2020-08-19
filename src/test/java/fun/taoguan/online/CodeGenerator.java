@@ -83,9 +83,9 @@ public class CodeGenerator {
 
         /******************************模板引擎选择***************************/
         // 如果模板引擎是 freemarker
-        // String templatePath = "/templates/mapper.xml.ftl";
+        String templatePath = "/templates/mapper.xml.ftl";
         // 如果模板引擎是 velocity
-        String templatePath = "/templates/mapper.xml.vm";
+        // String templatePath = "/templates/mapper.xml.vm";
 
 
         /******************************自定义配置***************************/
