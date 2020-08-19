@@ -1,4 +1,4 @@
-package fun.taoguan.onlinestudy;
+package fun.taoguan.online;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

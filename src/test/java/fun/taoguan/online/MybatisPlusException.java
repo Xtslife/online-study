@@ -1,4 +1,4 @@
-package fun.taoguan.onlinestudy;
+package fun.taoguan.online;
 
 /**
  * @创建人：关涛
